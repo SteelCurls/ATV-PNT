@@ -1,0 +1,31 @@
+/* Add application styles & imports to this file! */
+
+ion-content{
+
+  --ion-background-color:#000;
+}
+
+#x{
+  color: #d75413;
+}
+
+#z{
+  color: #000;
+}
+
+#y{
+  --ion-background-color: #d75413;
+}
+
+#F{
+  color: rgb(165, 165, 165);
+  
+}
+
+#FF{
+  color: #d75413;
+}
+
+#fff{
+  --ion-background-color:#d75413;
+}
